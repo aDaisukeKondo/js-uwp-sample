@@ -24,5 +24,5 @@ npm install
 
 2. build on Visual Studio
 
-  launch Visual Studio 2017, then build and run
+  * launch Visual Studio 2017, then build and run
 
