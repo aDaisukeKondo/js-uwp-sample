@@ -1,0 +1,17 @@
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bin\Debug\ReverseMap\resources.pri
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bin\Debug\AppxManifest.xml
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bin\Debug\js-uwp-sample.build.appxrecipe
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\js-uwp-sample.jsproj.CoreCompileInputs.cache
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\ResourceHandlingTask.state
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\priconfig.xml
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\priconfig.xml.intermediate
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\layout.resfiles
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\layout.resfiles.intermediate
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\resources.resfiles
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\resources.resfiles.intermediate
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\pri.resfiles
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\pri.resfiles.intermediate
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\qualifiers.txt
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\qualifiers.txt.intermediate
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\ProjectArchitectures.txt

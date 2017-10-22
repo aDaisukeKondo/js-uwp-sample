@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-OBBPR6F</Machine>
+    <WindowsUser>gachapin</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>579c91b1-a7fc-4eb4-b4b7-459953603315</PackageIdentityName>
+    <PackageIdentityPublisher>CN=gachapin</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>E52874BDC8CEC2617925E3202B654FAF4924D2ECF87E26C1828C19747D763F2B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>579c91b1-a7fc-4eb4-b4b7-459953603315_1.0.0.0_neutral__1n69mhcc3pvfg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>579c91b1-a7fc-4eb4-b4b7-459953603315_1n69mhcc3pvfg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>579c91b1-a7fc-4eb4-b4b7-459953603315</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=gachapin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-22T12:55:53.243</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-10-22T12:49:16.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-10-22T12:49:15.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-10-22T12:49:15.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2017-10-21T12:59:10.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\gachapin\workspace\js-uwp-sample\js-uwp-sample\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-10-22T12:55:53.017</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
