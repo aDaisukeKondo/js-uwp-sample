@@ -11,7 +11,7 @@
 			args.setPromise(WinJS.UI.processAll());
 		}
 
-    // initialize
+		// initialize here
 
 		isFirstActivation = false;
 	};
